@@ -1,2 +1,3 @@
 # hello-world
-New in github, learning how this works
+ Hi everyone, My name is Adebowale Adebimpe.
+ I am a front-end webdeveloper.
